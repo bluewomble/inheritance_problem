@@ -1,0 +1,2 @@
+setClass('A', representation('VIRTUAL'))
+

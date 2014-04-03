@@ -1,0 +1,14 @@
+Package: pkgB
+Type: Package
+Title: Test package B
+Version: 1.0
+Date: 2014-03-20
+Author: A N Other
+Maintainer: A N Other <another@dev.null>
+Description: Test
+License: GPL
+Depends:
+    methods,
+    pkgA
+Collate:
+    classes.R

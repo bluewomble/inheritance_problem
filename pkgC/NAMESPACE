@@ -1,0 +1,4 @@
+exportClass(C)
+exportClass(Broken)
+importClassesFrom(pkgA,A)
+importClassesFrom(pkgB,B)
